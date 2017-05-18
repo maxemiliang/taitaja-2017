@@ -248,6 +248,16 @@ a {
 .full-width {
     width: 100%;
 }
+
+.smaller {
+    width: 50%;
+    position: relative;
+    top: 4rem;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-bottom: 4rem;
+}
+
 @media (max-width: 768px) {
     .spacer {
         display: none;

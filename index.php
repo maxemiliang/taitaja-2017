@@ -48,6 +48,11 @@
             <a class="link" href="http://www.yleisurheilu.fi/" target="_blank">Visit SUL:s webpage ></a>
         </div>
     </div>
+    <div class="block">
+        <div class="content">
+            <img class="pure-img smaller" src="./static/img/Taitaja2017_logo.png" alt="Taitaja2017">
+        </div>
+    </div>
     <script src="./static/js/jquery-3.2.1.js"></script>
 </body>
 </html>
